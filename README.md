@@ -1,26 +1,4 @@
-<!-- 
-[![donate button](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat)](https://github.com/haxpor/donate)
--->
 
-![GPLv3 License](https://img.shields.io/badge/License-GPLv3-blue.svg)
-
-# iShadowsocksR 
-
-## 公告
-
-目前支持 [SSRoT 特性](https://github.com/ShadowsocksR-Live/shadowsocksr-native/wiki) 的 iOS 客户端 已经开发完毕, 出于种种原因不能释出。
-
-![Screen Shot 2020-05-22 at 18 14 21](https://user-images.githubusercontent.com/30760636/82657737-70b22680-9c58-11ea-804b-65bff0a60ff5.png)
-
-身在大陆以外的苹果软件开发者, 可以 将此 App 编译成 ipa 文件后电邮发送至 `ssrlivebox@gmail.com` ——虽然机率极小,也不能放弃希望不是? ——作者会将该文件放在这里供用户下载. 然后通过 [AltStore](https://altstore.io/) 安装到用户的(非越狱)手机里, 就可以使用了.
-
-
-## Important
-
-Please read [this](https://github.com/ShadowsocksR-Live/iShadowsocksR/blob/master/ADHERE_LICENSE.md) first before you do anything with this project.  
-In short, you need to respect to license of the project. You cannot copy the source code and publish to App Store.
-
----
 
 ## What is it?
 
@@ -110,16 +88,7 @@ We use the following services or open-source libraries. So we'd like show them h
 - [Antinat](http://antinat.sourceforge.net/)
 - [Privoxy](https://www.privoxy.org/)
 
-### Also we'd like to thank people that helped with the project
 
-- [@Blankwonder](https://twitter.com/Blankwonder)
-- [@龙七](#)
-- [@haxpor](https://twitter.com/haxpor)
-- TestFlight Users and [Telegram Group](https://telegram.me/joinchat/BT0c4z49OGNZXwl9VsO0uQ) users.
-
-### Donate
-- [@liqianyu](https://twitter.com/liqianyu)
-- [@anonymous](#) x2
 
 ## Notice
 
